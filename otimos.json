@@ -1,0 +1,258 @@
+[
+  {
+    "Nome_Arquivo": "pr439.tsp",
+    "Custo_Otimo": "107217"
+  },
+  {
+    "Nome_Arquivo": "rd100.tsp",
+    "Custo_Otimo": "7910"
+  },
+  {
+    "Nome_Arquivo": "rl5934.tsp",
+    "Custo_Otimo": "565530"
+  },
+  {
+    "Nome_Arquivo": "pcb442.tsp",
+    "Custo_Otimo": "50778"
+  },
+  {
+    "Nome_Arquivo": "u2319.tsp",
+    "Custo_Otimo": "234256"
+  },
+  {
+    "Nome_Arquivo": "gil262.tsp",
+    "Custo_Otimo": "2378"
+  },
+  {
+    "Nome_Arquivo": "pcb3038.tsp",
+    "Custo_Otimo": "137694"
+  },
+  {
+    "Nome_Arquivo": "lin105.tsp",
+    "Custo_Otimo": "14379"
+  },
+  {
+    "Nome_Arquivo": "fl417.tsp",
+    "Custo_Otimo": "11861"
+  },
+  {
+    "Nome_Arquivo": "tsp225.tsp",
+    "Custo_Otimo": "126643"
+  },
+  {
+    "Nome_Arquivo": "fl1400.tsp",
+    "Custo_Otimo": "20127"
+  },
+  {
+    "Nome_Arquivo": "nrw1379.tsp",
+    "Custo_Otimo": "56638"
+  },
+  {
+    "Nome_Arquivo": "kroA150.tsp",
+    "Custo_Otimo": "26524"
+  },
+  {
+    "Nome_Arquivo": "pcb1173.tsp",
+    "Custo_Otimo": "56892"
+  },
+  {
+    "Nome_Arquivo": "ch130.tsp",
+    "Custo_Otimo": "6110"
+  },
+  {
+    "Nome_Arquivo": "kroB100.tsp",
+    "Custo_Otimo": "22141"
+  },
+  {
+    "Nome_Arquivo": "berlin52.tsp",
+    "Custo_Otimo": "7542"
+  },
+  {
+    "Nome_Arquivo": "eil51.tsp",
+    "Custo_Otimo": "426"
+  },
+  {
+    "Nome_Arquivo": "u2152.tsp",
+    "Custo_Otimo": "64253"
+  },
+  {
+    "Nome_Arquivo": "u724.tsp",
+    "Custo_Otimo": "41910"
+  },
+  {
+    "Nome_Arquivo": "kroD100.tsp",
+    "Custo_Otimo": "21294"
+  },
+  {
+    "Nome_Arquivo": "linhp318.tsp",
+    "Custo_Otimo": "41345"
+  },
+  {
+    "Nome_Arquivo": "pr299.tsp",
+    "Custo_Otimo": "48191"
+  },
+  {
+    "Nome_Arquivo": "rd400.tsp",
+    "Custo_Otimo": "15281"
+  },
+  {
+    "Nome_Arquivo": "vm1084.tsp",
+    "Custo_Otimo": "239297"
+  },
+  {
+    "Nome_Arquivo": "rat575.tsp",
+    "Custo_Otimo": "6773"
+  },
+  {
+    "Nome_Arquivo": "d1655.tsp",
+    "Custo_Otimo": "62128"
+  },
+  {
+    "Nome_Arquivo": "ch150.tsp",
+    "Custo_Otimo": "6528"
+  },
+  {
+    "Nome_Arquivo": "pr107.tsp",
+    "Custo_Otimo": "44303"
+  },
+  {
+    "Nome_Arquivo": "kroB200.tsp",
+    "Custo_Otimo": "29437"
+  },
+  {
+    "Nome_Arquivo": "a280.tsp",
+    "Custo_Otimo": "2579"
+  },
+  {
+    "Nome_Arquivo": "d1291.tsp",
+    "Custo_Otimo": "50801"
+  },
+  {
+    "Nome_Arquivo": "pr264.tsp",
+    "Custo_Otimo": "49135"
+  },
+  {
+    "Nome_Arquivo": "pr76.tsp",
+    "Custo_Otimo": "108159"
+  },
+  {
+    "Nome_Arquivo": "pr136.tsp",
+    "Custo_Otimo": "96772"
+  },
+  {
+    "Nome_Arquivo": "rat195.tsp",
+    "Custo_Otimo": "2323"
+  },
+  {
+    "Nome_Arquivo": "kroA100.tsp",
+    "Custo_Otimo": "21282"
+  },
+  {
+    "Nome_Arquivo": "kroB150.tsp",
+    "Custo_Otimo": "26130"
+  },
+  {
+    "Nome_Arquivo": "bier127.tsp",
+    "Custo_Otimo": "118282"
+  },
+  {
+    "Nome_Arquivo": "kroC100.tsp",
+    "Custo_Otimo": "20749"
+  },
+  {
+    "Nome_Arquivo": "eil76.tsp",
+    "Custo_Otimo": "538"
+  },
+  {
+    "Nome_Arquivo": "pr124.tsp",
+    "Custo_Otimo": "59030"
+  },
+  {
+    "Nome_Arquivo": "rl1323.tsp",
+    "Custo_Otimo": "270199"
+  },
+  {
+    "Nome_Arquivo": "p654.tsp",
+    "Custo_Otimo": "34643"
+  },
+  {
+    "Nome_Arquivo": "rl1889.tsp",
+    "Custo_Otimo": "316536"
+  },
+  {
+    "Nome_Arquivo": "eil101.tsp",
+    "Custo_Otimo": "629"
+  },
+  {
+    "Nome_Arquivo": "fnl4461.tsp",
+    "Custo_Otimo": "182566"
+  },
+  {
+    "Nome_Arquivo": "pr2392.tsp",
+    "Custo_Otimo": "378032"
+  },
+  {
+    "Nome_Arquivo": "rat783.tsp",
+    "Custo_Otimo": "8806"
+  },
+  {
+    "Nome_Arquivo": "u1432.tsp",
+    "Custo_Otimo": "152970"
+  },
+  {
+    "Nome_Arquivo": "u1817.tsp",
+    "Custo_Otimo": "57201"
+  },
+  {
+    "Nome_Arquivo": "lin318.tsp",
+    "Custo_Otimo": "42029"
+  },
+  {
+    "Nome_Arquivo": "rl5915.tsp",
+    "Custo_Otimo": "565530"
+  },
+  {
+    "Nome_Arquivo": "st70.tsp",
+    "Custo_Otimo": "675"
+  },
+  {
+    "Nome_Arquivo": "rat99.tsp",
+    "Custo_Otimo": "1211"
+  },
+  {
+    "Nome_Arquivo": "fl3795.tsp",
+    "Custo_Otimo": "28772"
+  },
+  {
+    "Nome_Arquivo": "u159.tsp",
+    "Custo_Otimo": "42080"
+  },
+  {
+    "Nome_Arquivo": "kroA200.tsp",
+    "Custo_Otimo": "29368"
+  },
+  {
+    "Nome_Arquivo": "u574.tsp",
+    "Custo_Otimo": "36905"
+  },
+  {
+    "Nome_Arquivo": "pr1002.tsp",
+    "Custo_Otimo": "259045"
+  },
+  {
+    "Nome_Arquivo": "pr226.tsp",
+    "Custo_Otimo": "80369"
+  },
+  {
+    "Nome_Arquivo": "vm1748.tsp",
+    "Custo_Otimo": "336556"
+  },
+  {
+    "Nome_Arquivo": "pr144.tsp",
+    "Custo_Otimo": "58537"
+  },
+  {
+    "Nome_Arquivo": "kroE100.tsp",
+    "Custo_Otimo": "22068"
+  }
+]
