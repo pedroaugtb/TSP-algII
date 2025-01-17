@@ -1,0 +1,578 @@
+[
+  {
+    "Nome_Arquivo": "pr439.tsp",
+    "Tempo_TAT": 0.22524208759512113,
+    "Tempo_Christofides": 1.29762650596914,
+    "Custo_Otimo": 109704.36944591935,
+    "Custo_TAT": 146236.08850583463,
+    "Custo_Christofides": 116048.59651907976,
+    "Qtd_Cidades": "439"
+  },
+  {
+    "Nome_Arquivo": "rd100.tsp",
+    "Tempo_TAT": 0.012639595679045166,
+    "Tempo_Christofides": 0.09327753683050928,
+    "Custo_Otimo": 8199.645331307973,
+    "Custo_TAT": 10089.161671403173,
+    "Custo_Christofides": 9068.680609482879,
+    "Qtd_Cidades": "100"
+  },
+  {
+    "Nome_Arquivo": "rl5934.tsp",
+    "Tempo_TAT": 72.35490839587568,
+    "Tempo_Christofides": 480.40944405360233,
+    "Custo_Otimo": 584330.6286651862,
+    "Custo_TAT": 838575.3132541727,
+    "Custo_Christofides": 588199.6930909131,
+    "Qtd_Cidades": "5934"
+  },
+  {
+    "Nome_Arquivo": "pcb442.tsp",
+    "Tempo_TAT": 0.21342232737591887,
+    "Tempo_Christofides": 2.3617165870646453,
+    "Custo_Otimo": 50903.70820854218,
+    "Custo_TAT": 71480.90348868037,
+    "Custo_Christofides": 53628.25098324769,
+    "Qtd_Cidades": "442"
+  },
+  {
+    "Nome_Arquivo": "u2319.tsp",
+    "Tempo_TAT": 6.401180827056312,
+    "Tempo_Christofides": 318.5344914557126,
+    "Custo_Otimo": 229386.8636787266,
+    "Custo_TAT": 362982.35952094046,
+    "Custo_Christofides": 273369.244200394,
+    "Qtd_Cidades": "2319"
+  },
+  {
+    "Nome_Arquivo": "gil262.tsp",
+    "Tempo_TAT": 0.07515922623078725,
+    "Tempo_Christofides": 0.7099840851119548,
+    "Custo_Otimo": 2381.3849494547567,
+    "Custo_TAT": 3295.3940890650956,
+    "Custo_Christofides": 2544.913648084,
+    "Qtd_Cidades": "262"
+  },
+  {
+    "Nome_Arquivo": "pcb3038.tsp",
+    "Tempo_TAT": 17.289817001423263,
+    "Tempo_Christofides": 587.296509846922,
+    "Custo_Otimo": 131705.02140445152,
+    "Custo_TAT": 205648.7591361902,
+    "Custo_Christofides": 161251.36625520335,
+    "Qtd_Cidades": "3038"
+  },
+  {
+    "Nome_Arquivo": "lin105.tsp",
+    "Tempo_TAT": 0.014451355077487179,
+    "Tempo_Christofides": 0.058472778516317055,
+    "Custo_Otimo": 13800.49273272978,
+    "Custo_TAT": 21658.539323272515,
+    "Custo_Christofides": 16242.820688809108,
+    "Qtd_Cidades": "105"
+  },
+  {
+    "Nome_Arquivo": "fl417.tsp",
+    "Tempo_TAT": 0.18630370733407875,
+    "Tempo_Christofides": 1.2316558882684758,
+    "Custo_Otimo": 11308.73822489476,
+    "Custo_TAT": 17250.14253767619,
+    "Custo_Christofides": 13057.982429004258,
+    "Qtd_Cidades": "417"
+  },
+  {
+    "Nome_Arquivo": "tsp225.tsp",
+    "Tempo_TAT": 0.05537979378517552,
+    "Tempo_Christofides": 0.320368915737302,
+    "Custo_Otimo": 126897.14744060214,
+    "Custo_TAT": 5429.515631304618,
+    "Custo_Christofides": 4209.611978083576,
+    "Qtd_Cidades": "225"
+  },
+  {
+    "Nome_Arquivo": "fl1400.tsp",
+    "Tempo_TAT": 4.258517146332972,
+    "Tempo_Christofides": 121.90723251785657,
+    "Custo_Otimo": 21011.579519686245,
+    "Custo_TAT": 29889.51256420221,
+    "Custo_Christofides": 22863.34621810315,
+    "Qtd_Cidades": "1400"
+  },
+  {
+    "Nome_Arquivo": "nrw1379.tsp",
+    "Tempo_TAT": 3.5561799773237546,
+    "Tempo_Christofides": 125.9182266680214,
+    "Custo_Otimo": 54916.10773616956,
+    "Custo_TAT": 74265.44314659895,
+    "Custo_Christofides": 62646.07373863924,
+    "Qtd_Cidades": "1379"
+  },
+  {
+    "Nome_Arquivo": "kroA150.tsp",
+    "Tempo_TAT": 0.026196022566191867,
+    "Tempo_Christofides": 0.2271242999567272,
+    "Custo_Otimo": 27395.943369274573,
+    "Custo_TAT": 35571.64459628649,
+    "Custo_Christofides": 28637.902982251573,
+    "Qtd_Cidades": "150"
+  },
+  {
+    "Nome_Arquivo": "pcb1173.tsp",
+    "Tempo_TAT": 2.309878473753155,
+    "Tempo_Christofides": 35.727155949753204,
+    "Custo_Otimo": 58611.25906290588,
+    "Custo_TAT": 77339.30359416385,
+    "Custo_Christofides": 66435.76277401569,
+    "Qtd_Cidades": "1173"
+  },
+  {
+    "Nome_Arquivo": "ch130.tsp",
+    "Tempo_TAT": 0.020658597726338185,
+    "Tempo_Christofides": 0.0845022025401231,
+    "Custo_Otimo": 5807.874013562521,
+    "Custo_TAT": 8317.794689571307,
+    "Custo_Christofides": 6940.695976569188,
+    "Qtd_Cidades": "130"
+  },
+  {
+    "Nome_Arquivo": "kroB100.tsp",
+    "Tempo_TAT": 0.012961168645684869,
+    "Tempo_Christofides": 0.04521823095120334,
+    "Custo_Otimo": 21197.89226340445,
+    "Custo_TAT": 27256.66479497558,
+    "Custo_Christofides": 22994.649719682275,
+    "Qtd_Cidades": "100"
+  },
+  {
+    "Nome_Arquivo": "berlin52.tsp",
+    "Tempo_TAT": 0.005201189284756353,
+    "Tempo_Christofides": 0.012741301253204985,
+    "Custo_Otimo": 7414.463290343868,
+    "Custo_TAT": 9668.28678600416,
+    "Custo_Christofides": 8356.707426092196,
+    "Qtd_Cidades": "52"
+  },
+  {
+    "Nome_Arquivo": "eil51.tsp",
+    "Tempo_TAT": 0.004824157365174743,
+    "Tempo_Christofides": 0.013106068306096853,
+    "Custo_Otimo": 431.8599482797321,
+    "Custo_TAT": 593.9390880171103,
+    "Custo_Christofides": 473.13805025800895,
+    "Qtd_Cidades": "51"
+  },
+  {
+    "Nome_Arquivo": "u2152.tsp",
+    "Tempo_TAT": 7.404404461301061,
+    "Tempo_Christofides": 83.99204277949342,
+    "Custo_Otimo": 65928.62217287815,
+    "Custo_TAT": 96297.05510265366,
+    "Custo_Christofides": 75739.81422642,
+    "Qtd_Cidades": "2152"
+  },
+  {
+    "Nome_Arquivo": "u724.tsp",
+    "Tempo_TAT": 0.6053570966339128,
+    "Tempo_Christofides": 11.942195571916926,
+    "Custo_Otimo": 41606.32440794068,
+    "Custo_TAT": 55498.53302984448,
+    "Custo_Christofides": 46151.31912742793,
+    "Qtd_Cidades": "724"
+  },
+  {
+    "Nome_Arquivo": "kroD100.tsp",
+    "Tempo_TAT": 0.012348828157887525,
+    "Tempo_Christofides": 0.06090661432928877,
+    "Custo_Otimo": 20898.68962610393,
+    "Custo_TAT": 26826.969859816963,
+    "Custo_Christofides": 24659.065497023767,
+    "Qtd_Cidades": "100"
+  },
+  {
+    "Nome_Arquivo": "linhp318.tsp",
+    "Tempo_TAT": 0.8268746128575926,
+    "Tempo_Christofides": 0.9893625807745425,
+    "Custo_Otimo": 42401.576182306235,
+    "Custo_TAT": 61669.272834059106,
+    "Custo_Christofides": 45313.056593447924,
+    "Qtd_Cidades": "318"
+  },
+  {
+    "Nome_Arquivo": "pr299.tsp",
+    "Tempo_TAT": 0.094575822328787,
+    "Tempo_Christofides": 0.8054405294526094,
+    "Custo_Otimo": 50261.75595640409,
+    "Custo_TAT": 65052.57409773035,
+    "Custo_Christofides": 53605.2195955484,
+    "Qtd_Cidades": "299"
+  },
+  {
+    "Nome_Arquivo": "rd400.tsp",
+    "Tempo_TAT": 0.21832938567212876,
+    "Tempo_Christofides": 3.3641561652992653,
+    "Custo_Otimo": 14802.04770698375,
+    "Custo_TAT": 22449.34888568584,
+    "Custo_Christofides": 17400.8093528387,
+    "Qtd_Cidades": "400"
+  },
+  {
+    "Nome_Arquivo": "vm1084.tsp",
+    "Tempo_TAT": 1.7608508374450225,
+    "Tempo_Christofides": 21.766852347086026,
+    "Custo_Otimo": 234941.87775503422,
+    "Custo_TAT": 310270.8005647357,
+    "Custo_Christofides": 254379.80448247617,
+    "Qtd_Cidades": "1084"
+  },
+  {
+    "Nome_Arquivo": "rat575.tsp",
+    "Tempo_TAT": 0.4019190827404949,
+    "Tempo_Christofides": 7.718634222571178,
+    "Custo_Otimo": 7017.322824039521,
+    "Custo_TAT": 8947.669137146313,
+    "Custo_Christofides": 7833.618232661774,
+    "Qtd_Cidades": "575"
+  },
+  {
+    "Nome_Arquivo": "d1655.tsp",
+    "Tempo_TAT": 4.144361823863295,
+    "Tempo_Christofides": 47.750131593226264,
+    "Custo_Otimo": 59766.299554170706,
+    "Custo_TAT": 85075.79643704904,
+    "Custo_Christofides": 72030.54121061007,
+    "Qtd_Cidades": "1655"
+  },
+  {
+    "Nome_Arquivo": "ch150.tsp",
+    "Tempo_TAT": 0.02513072834526594,
+    "Tempo_Christofides": 0.10176767424702717,
+    "Custo_Otimo": 6660.530776366772,
+    "Custo_TAT": 8895.521782391477,
+    "Custo_Christofides": 7459.291432730853,
+    "Qtd_Cidades": "150"
+  },
+  {
+    "Nome_Arquivo": "pr107.tsp",
+    "Tempo_TAT": 0.015051461929722,
+    "Tempo_Christofides": 0.042116090111613026,
+    "Custo_Otimo": 44290.810055655034,
+    "Custo_TAT": 58573.81617477912,
+    "Custo_Christofides": 46601.37922175906,
+    "Qtd_Cidades": "107"
+  },
+  {
+    "Nome_Arquivo": "kroB200.tsp",
+    "Tempo_TAT": 0.09452793799394595,
+    "Tempo_Christofides": 0.3619181050953192,
+    "Custo_Otimo": 29444.886240678803,
+    "Custo_TAT": 38223.29326878371,
+    "Custo_Christofides": 31983.08885155941,
+    "Qtd_Cidades": "200"
+  },
+  {
+    "Nome_Arquivo": "a280.tsp",
+    "Tempo_TAT": 0.10644844454545498,
+    "Tempo_Christofides": 0.5510311586661668,
+    "Custo_Otimo": 2487.4183875123263,
+    "Custo_TAT": 3871.795946720425,
+    "Custo_Christofides": 3093.3370591373873,
+    "Qtd_Cidades": "280"
+  },
+  {
+    "Nome_Arquivo": "d1291.tsp",
+    "Tempo_TAT": 2.2505422274896167,
+    "Tempo_Christofides": 10.789179276844779,
+    "Custo_Otimo": 52130.05380783141,
+    "Custo_TAT": 69379.56728921061,
+    "Custo_Christofides": 57169.6812138174,
+    "Qtd_Cidades": "1291"
+  },
+  {
+    "Nome_Arquivo": "pr264.tsp",
+    "Tempo_TAT": 0.28896745937453155,
+    "Tempo_Christofides": 0.26947443537047644,
+    "Custo_Otimo": 49791.098233823664,
+    "Custo_TAT": 67570.75534800258,
+    "Custo_Christofides": 51686.64714957102,
+    "Qtd_Cidades": "264"
+  },
+  {
+    "Nome_Arquivo": "pr76.tsp",
+    "Tempo_TAT": 0.008750611835083128,
+    "Tempo_Christofides": 0.02062869942865705,
+    "Custo_Otimo": 104768.41555663379,
+    "Custo_TAT": 134841.26969729058,
+    "Custo_Christofides": 116615.90950580036,
+    "Qtd_Cidades": "76"
+  },
+  {
+    "Nome_Arquivo": "pr136.tsp",
+    "Tempo_TAT": 0.021576619697928803,
+    "Tempo_Christofides": 0.05852594965774526,
+    "Custo_Otimo": 96889.0269437738,
+    "Custo_TAT": 142553.64568308395,
+    "Custo_Christofides": 104645.33934343157,
+    "Qtd_Cidades": "136"
+  },
+  {
+    "Nome_Arquivo": "rat195.tsp",
+    "Tempo_TAT": 0.03975267484044369,
+    "Tempo_Christofides": 0.2564305049191091,
+    "Custo_Otimo": 2296.6886209456147,
+    "Custo_TAT": 3450.2525628919184,
+    "Custo_Christofides": 2549.2103274307187,
+    "Qtd_Cidades": "195"
+  },
+  {
+    "Nome_Arquivo": "kroA100.tsp",
+    "Tempo_TAT": 0.012665524547005749,
+    "Tempo_Christofides": 0.06307324673992613,
+    "Custo_Otimo": 22185.832958420437,
+    "Custo_TAT": 29244.40458779116,
+    "Custo_Christofides": 22448.045050760924,
+    "Qtd_Cidades": "100"
+  },
+  {
+    "Nome_Arquivo": "kroB150.tsp",
+    "Tempo_TAT": 0.027994855790142298,
+    "Tempo_Christofides": 0.25524714014091954,
+    "Custo_Otimo": 26274.239720709396,
+    "Custo_TAT": 36656.946791165086,
+    "Custo_Christofides": 29031.15881704225,
+    "Qtd_Cidades": "150"
+  },
+  {
+    "Nome_Arquivo": "bier127.tsp",
+    "Tempo_TAT": 0.018536629841794893,
+    "Tempo_Christofides": 0.19062486022367006,
+    "Custo_Otimo": 123018.22486373929,
+    "Custo_TAT": 157224.69795853947,
+    "Custo_Christofides": 130305.60823765001,
+    "Qtd_Cidades": "127"
+  },
+  {
+    "Nome_Arquivo": "kroC100.tsp",
+    "Tempo_TAT": 0.0129150552128344,
+    "Tempo_Christofides": 0.0654186989217162,
+    "Custo_Otimo": 21572.964078375604,
+    "Custo_TAT": 30451.03367045804,
+    "Custo_Christofides": 23359.14204470192,
+    "Qtd_Cidades": "100"
+  },
+  {
+    "Nome_Arquivo": "eil76.tsp",
+    "Tempo_TAT": 0.008163332661966533,
+    "Tempo_Christofides": 0.043512132177693535,
+    "Custo_Otimo": 519.7956248182902,
+    "Custo_TAT": 736.629100383335,
+    "Custo_Christofides": 619.125952149081,
+    "Qtd_Cidades": "76"
+  },
+  {
+    "Nome_Arquivo": "pr124.tsp",
+    "Tempo_TAT": 0.019837050781853202,
+    "Tempo_Christofides": 0.041339190960884224,
+    "Custo_Otimo": 59995.15094304486,
+    "Custo_TAT": 71529.44226994221,
+    "Custo_Christofides": 62230.09848922941,
+    "Qtd_Cidades": "124"
+  },
+  {
+    "Nome_Arquivo": "rl1323.tsp",
+    "Tempo_TAT": 2.8131468461210436,
+    "Tempo_Christofides": 11.630215103399353,
+    "Custo_Otimo": 274304.9780356343,
+    "Custo_TAT": 379800.6577598299,
+    "Custo_Christofides": 303299.86446480575,
+    "Qtd_Cidades": "1323"
+  },
+  {
+    "Nome_Arquivo": "p654.tsp",
+    "Tempo_TAT": 0.6845219452422423,
+    "Tempo_Christofides": 1.283181499819966,
+    "Custo_Otimo": 35496.92017475037,
+    "Custo_TAT": 47087.38382454327,
+    "Custo_Christofides": 40109.13735554384,
+    "Qtd_Cidades": "654"
+  },
+  {
+    "Nome_Arquivo": "rl1889.tsp",
+    "Tempo_TAT": 5.966705880856837,
+    "Tempo_Christofides": 34.23148518115674,
+    "Custo_Otimo": 303674.3436309233,
+    "Custo_TAT": 452341.15483705496,
+    "Custo_Christofides": 337622.9421069502,
+    "Qtd_Cidades": "1889"
+  },
+  {
+    "Nome_Arquivo": "eil101.tsp",
+    "Tempo_TAT": 0.013800429362661626,
+    "Tempo_Christofides": 0.09432542181429479,
+    "Custo_Otimo": 622.2758468815392,
+    "Custo_TAT": 915.455083160136,
+    "Custo_Christofides": 732.2501907329809,
+    "Qtd_Cidades": "101"
+  },
+  {
+    "Nome_Arquivo": "fnl4461.tsp",
+    "Tempo_TAT": 40.52883947372894,
+    "Tempo_Christofides": 2722.024021732571,
+    "Custo_Otimo": 183970.00346006957,
+    "Custo_TAT": 252170.90363389888,
+    "Custo_Christofides": 200726.38618509288,
+    "Qtd_Cidades": "4461"
+  },
+  {
+    "Nome_Arquivo": "pr2392.tsp",
+    "Tempo_TAT": 12.494370738060312,
+    "Tempo_Christofides": 294.8715348433995,
+    "Custo_Otimo": 360049.62134220154,
+    "Custo_TAT": 540678.3433948688,
+    "Custo_Christofides": 411273.8831371171,
+    "Qtd_Cidades": "2392"
+  },
+  {
+    "Nome_Arquivo": "rat783.tsp",
+    "Tempo_TAT": 1.6777096252159955,
+    "Tempo_Christofides": 20.659683075331706,
+    "Custo_Otimo": 9171.329582028127,
+    "Custo_TAT": 12162.057425678764,
+    "Custo_Christofides": 9574.35107096541,
+    "Qtd_Cidades": "783"
+  },
+  {
+    "Nome_Arquivo": "u1432.tsp",
+    "Tempo_TAT": 3.275287755616077,
+    "Tempo_Christofides": 41.62480840144837,
+    "Custo_Otimo": 160108.41876691103,
+    "Custo_TAT": 243307.31388427294,
+    "Custo_Christofides": 177851.7359863167,
+    "Qtd_Cidades": "1432"
+  },
+  {
+    "Nome_Arquivo": "u1817.tsp",
+    "Tempo_TAT": 5.296879986573243,
+    "Tempo_Christofides": 56.756396969845305,
+    "Custo_Otimo": 59209.53687474357,
+    "Custo_TAT": 84833.07675532429,
+    "Custo_Christofides": 64793.21042204131,
+    "Qtd_Cidades": "1817"
+  },
+  {
+    "Nome_Arquivo": "lin318.tsp",
+    "Tempo_TAT": 0.11186697140228732,
+    "Tempo_Christofides": 1.1018907329412242,
+    "Custo_Otimo": 42852.893632445244,
+    "Custo_TAT": 63832.48364188096,
+    "Custo_Christofides": 45408.61583652598,
+    "Qtd_Cidades": "318"
+  },
+  {
+    "Nome_Arquivo": "rl5915.tsp",
+    "Tempo_TAT": 1726.9164639184153,
+    "Tempo_Christofides": 355.79036043816467,
+    "Custo_Otimo": 545175.6713136712,
+    "Custo_TAT": 860318.2211847475,
+    "Custo_Christofides": 639507.3430445093,
+    "Qtd_Cidades": "5915"
+  },
+  {
+    "Nome_Arquivo": "st70.tsp",
+    "Tempo_TAT": 0.010310344152224649,
+    "Tempo_Christofides": 0.03341359249178526,
+    "Custo_Otimo": 688.6676756691298,
+    "Custo_TAT": 848.2002973589975,
+    "Custo_Christofides": 744.1791962924624,
+    "Qtd_Cidades": "70"
+  },
+  {
+    "Nome_Arquivo": "rat99.tsp",
+    "Tempo_TAT": 0.0139301475078008,
+    "Tempo_Christofides": 0.05420553601601301,
+    "Custo_Otimo": 1255.4524577800505,
+    "Custo_TAT": 1803.8376933837044,
+    "Custo_Christofides": 1340.9335499427311,
+    "Qtd_Cidades": "99"
+  },
+  {
+    "Nome_Arquivo": "fl3795.tsp",
+    "Tempo_TAT": 31.056119222407226,
+    "Tempo_Christofides": 603.8844206484576,
+    "Custo_Otimo": 29203.476221633788,
+    "Custo_TAT": 42494.4054123776,
+    "Custo_Christofides": 32250.94682751391,
+    "Qtd_Cidades": "3795"
+  },
+  {
+    "Nome_Arquivo": "u159.tsp",
+    "Tempo_TAT": 0.03090517679322146,
+    "Tempo_Christofides": 0.13629749039910766,
+    "Custo_Otimo": 41556.45306470888,
+    "Custo_TAT": 53594.7941636954,
+    "Custo_Christofides": 47075.08455876045,
+    "Qtd_Cidades": "159"
+  },
+  {
+    "Nome_Arquivo": "kroA200.tsp",
+    "Tempo_TAT": 0.04258760535342832,
+    "Tempo_Christofides": 0.4706004033709561,
+    "Custo_Otimo": 29493.23876320921,
+    "Custo_TAT": 39615.394294990954,
+    "Custo_Christofides": 33175.204465422285,
+    "Qtd_Cidades": "200"
+  },
+  {
+    "Nome_Arquivo": "u574.tsp",
+    "Tempo_TAT": 0.3960649264373066,
+    "Tempo_Christofides": 6.317725058043353,
+    "Custo_Otimo": 38095.55736911447,
+    "Custo_TAT": 49710.69265956059,
+    "Custo_Christofides": 39606.04585368954,
+    "Qtd_Cidades": "574"
+  },
+  {
+    "Nome_Arquivo": "pr1002.tsp",
+    "Tempo_TAT": 1.7837819715322747,
+    "Tempo_Christofides": 40.33191401160707,
+    "Custo_Otimo": 251683.48580679196,
+    "Custo_TAT": 359503.8096938915,
+    "Custo_Christofides": 273345.35665207816,
+    "Qtd_Cidades": "1002"
+  },
+  {
+    "Nome_Arquivo": "pr226.tsp",
+    "Tempo_TAT": 0.06211536299191066,
+    "Tempo_Christofides": 0.5256130161345244,
+    "Custo_Otimo": 80695.58040886826,
+    "Custo_TAT": 118852.26198543943,
+    "Custo_Christofides": 93492.8105952653,
+    "Qtd_Cidades": "226"
+  },
+  {
+    "Nome_Arquivo": "vm1748.tsp",
+    "Tempo_TAT": 6.387161608128555,
+    "Tempo_Christofides": 98.09956160843782,
+    "Custo_Otimo": 330597.4938707214,
+    "Custo_TAT": 465081.7786223261,
+    "Custo_Christofides": 367325.9104646265,
+    "Qtd_Cidades": "1748"
+  },
+  {
+    "Nome_Arquivo": "pr144.tsp",
+    "Tempo_TAT": 0.029400540879006138,
+    "Tempo_Christofides": 0.04126293587015173,
+    "Custo_Otimo": 55758.545646731065,
+    "Custo_TAT": 86952.05707400663,
+    "Custo_Christofides": 72828.97109423064,
+    "Qtd_Cidades": "144"
+  },
+  {
+    "Nome_Arquivo": "kroE100.tsp",
+    "Tempo_TAT": 0.015659920176423932,
+    "Tempo_Christofides": 0.10092153700732255,
+    "Custo_Otimo": 21347.02590553234,
+    "Custo_TAT": 29358.564704762353,
+    "Custo_Christofides": 23152.087894723158,
+    "Qtd_Cidades": "100"
+  }
+]
