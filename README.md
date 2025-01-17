@@ -32,11 +32,3 @@ Inclui parsing de instâncias TSPLIB, cálculo de matrizes de distância e avali
      ```
 4. Resultados serão salvos em `tsp_results.json`.  
 
----
-
-## Observações
-
-- **Branch and Bound**: Ótimo, mas lento para instâncias grandes.  
-- **Aproximações**: Rápidas, com garantias de custo aceitável.  
-
-Este projeto implementa técnicas avançadas discutidas no curso para resolver problemas difíceis.
